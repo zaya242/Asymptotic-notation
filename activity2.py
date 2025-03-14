@@ -1,4 +1,4 @@
-
+#Program to show linear time complexity(O(n)) by entering any n.
 def myfun(n):
     iterations=0
     for i in range(1,n+1):

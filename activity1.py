@@ -1,4 +1,4 @@
-
+#Program to show constant time complexity by entering any n.
 def myfun(n):
     iterations=0
     print("The number entered by the user",n)
